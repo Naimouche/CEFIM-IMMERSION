@@ -1,0 +1,23 @@
+
+h1,h2,h3
+{
+	color: blue;
+	border: 3px black inset;
+	font-style: italic;
+}
+
+p
+{
+	width: 400px;
+	text-align: justify;
+}
+
+body
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-image: url("imagefond.png");
+	text-align: center;
+}
+
